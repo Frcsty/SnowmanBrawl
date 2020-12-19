@@ -1,0 +1,5 @@
+name: SnowmanBrawl
+version: @version@
+main: com.github.frcsty.snowmanbrawl.BrawlPlugin
+api-version: 1.13
+author: Frcsty
